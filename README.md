@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcnaughtonadm
 - 👀 I’m interested in the Scientific Application of Machine Learning and High Performance Scientific Simulations
-- 💼 I work at the Pacific Northwest National Laboratory in the Computaional Biology Group
+- 💼 I work at the University of California Riverside in the Ian Wheeldon Lab
 - 🌱 I’m currently learning Data Science in Python
 - 📫 How to reach me: mcnaughtonadm@gmail.com
 
